@@ -18,7 +18,7 @@ new Vue({
           top:'0px',
           background:'#dff0d8',
           'z-index':10,
-          // width:'100%',
+          width:'100%',
           'box-shadow':'0 2px 4px -1px rgba(0,0,0,0.3)'
         })
 
